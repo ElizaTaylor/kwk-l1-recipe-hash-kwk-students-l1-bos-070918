@@ -40,20 +40,14 @@ end
 
 
 #4: Now use `puts` to print out just the ingredients without the amounts. You'll want to use the `each_key` method.
-def ingredients(perfect_10_recipe)
+def 
+  
+  ingredients(perfect_10_recipe)
 end
 
 #5: Now use `puts` to print out just the amounts without the ingredients. You'll want to use the`each_value` method.
 def amounts(perfect_10_recipe)
-  "2 cups"
- "1/2 tea spoon"
- "1/2 tea spoon"
- "1/4 tea spoon"
- "1/2 tea spoon"
- "1/4 cup"
- "3/4 cup"
- "1/2 cup"
- "1/4 cup"
+ 
 end
 
 
