@@ -45,6 +45,7 @@ end
 
 #5: Now use `puts` to print out just the amounts without the ingredients. You'll want to use the`each_value` method.
 def amounts(perfect_10_recipe)
+  
 end
 
 
